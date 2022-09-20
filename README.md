@@ -3,13 +3,13 @@
 
 
 
-- 🔭 I’m currently working on ... **HTML,CSS,JAVASCRİPT**
-- 🌱 I’m currently learning ...FRONT-END
-- 👯 I’m looking to collaborate on ...CODEFACE TEAM
-- 🤔 I’m looking for help with ...OPEN SOURCE PROJECTS
-- 💬 Ask me about ...CONTRİBUTİNGS
-- 📫 How to reach me: ...royahacizade28@gmail.com
-- 😄 HOBBY: ...MUSIC LISTENER
+- 🔭 I’m currently working on ... *HTML,CSS,JAVASCRİPT*
+- 🌱 I’m currently learning ... *FRONT-END*
+- 👯 I’m looking to collaborate on ... *CODEFACE TEAM*
+- 🤔 I’m looking for help with ... *OPEN SOURCE PROJECTS*
+- 💬 Ask me about ... *CONTRİBUTİNGS*
+- 📫 How to reach me: ... *royahacizade28@gmail.com*
+- 😄 HOBBY: ... *MUSIC LISTENER*
 
 ## 🚀 Junior software developer
 
