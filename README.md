@@ -11,6 +11,15 @@
 - 📫 How to reach me: ... *royahacizade28@gmail.com*
 - 😄 HOBBY: ... *MUSIC LISTENER*
 
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
+
 ## 🚀 Junior software developer
 
 
